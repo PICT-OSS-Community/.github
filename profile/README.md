@@ -1,6 +1,6 @@
-# 🌟 PICT OSS Community 🌟  
+# 🌟 OSS Community 🌟  
 
-Welcome to **PICT-OSS-Community**, an open-source initiative by students of the **Pune Institute of Computer Technology (PICT)**. What began as a WhatsApp group has grown into a GitHub organization with a mission to:  
+Welcome to **OSS-Community**, an open-source initiative by students of the **Pune Institute of Computer Technology (PICT)**. What began as a WhatsApp group has grown into a GitHub organization with a mission to:  
 
 -  **Spread awareness about the amazing world of open-source development.**  
 -  **Kickstart impactful deep tech projects** to inspire hands-on learning and collaboration.  
